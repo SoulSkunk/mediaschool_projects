@@ -1,0 +1,39 @@
+.form_modif {
+  transition: all 0.2s ease;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  margin: 1%;
+  border-color: lightgray;
+  background-color: rgb(151 180 207);
+}
+
+.form_modif:hover {
+  background-color: #c7ecf6;
+}
+
+.label_modif {
+  color: grey;
+}
+
+button {
+  padding: 5px;
+  background-color: #389db4;
+  color: white;
+  font-size: 20px;
+  border: none;
+}
+button:hover {
+  background-color: #c7ecf6;
+  color: #389db4;
+  border-radius: 150px;
+}
+
+.legale {
+  color: #389db4;
+  color: #680c6a;
+}
+
+.valid {
+  color: grey;
+}
